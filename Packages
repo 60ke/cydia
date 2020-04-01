@@ -1,0 +1,18 @@
+Package: com.mc.zsh
+Version: 5.7.1-01
+Architecture: iphoneos-arm
+Maintainer: MCApollo <34170230+MCApollo@users.noreply.github.com>
+Depends: com.mc.ncurses, com.mc.pcre
+Filename: ./debs/com.mc.zsh_5.7.1-01_iphoneos-arm.deb
+Size: 1755300
+MD5sum: 019c1af6ff681132cbbf92ee34b6205d
+SHA1: ee507c1e7da58b85157ed801a8824d75fea6ebda
+SHA256: 32768d59abe0a671fef83bc87dc7a2b24c23eed9d80a4ffde3819db79bcac899
+Section: Terminal Support
+Priority: optional
+Homepage: https://www.zsh.org/
+Description: Athena Project | Compiled for ARM64.
+ UNIX shell (command interpreter)
+Name: zsh
+Tags: purpose::console
+
