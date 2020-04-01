@@ -21,7 +21,7 @@ Version: 5.7.1-01
 Architecture: iphoneos-arm
 Maintainer: MCApollo <34170230+MCApollo@users.noreply.github.com>
 Depends: com.mc.ncurses, com.mc.pcre
-Filename: ./ipa/com.mc.zsh_5.7.1-01_iphoneos-arm.deb
+Filename: ./ipa/石头阅读NoAds.ipa
 Size: 1755300
 MD5sum: 019c1af6ff681132cbbf92ee34b6205d
 SHA1: ee507c1e7da58b85157ed801a8824d75fea6ebda
